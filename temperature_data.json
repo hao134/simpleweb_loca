@@ -1,0 +1,47 @@
+[
+    {
+        "location": "Warehouse 1",
+        "timestamp": "2024-11-30T07:25:01.987552Z",
+        "temperature": 22.0
+    },
+    {
+        "location": "Warehouse 1",
+        "timestamp": "2024-11-30T03:25:01.987552Z",
+        "temperature": 20.2
+    },
+    {
+        "location": "Warehouse 1",
+        "timestamp": "2024-11-29T23:25:01.987552Z",
+        "temperature": 27.6
+    },
+    {
+        "location": "Warehouse 2",
+        "timestamp": "2024-11-30T07:25:01.987552Z",
+        "temperature": 21.2
+    },
+    {
+        "location": "Warehouse 2",
+        "timestamp": "2024-11-30T03:25:01.987552Z",
+        "temperature": 29.0
+    },
+    {
+        "location": "Warehouse 2",
+        "timestamp": "2024-11-29T23:25:01.987552Z",
+        "temperature": 28.3
+    },
+    {
+        "location": "Warehouse 3",
+        "timestamp": "2024-11-30T07:25:01.987552Z",
+        "temperature": 24.2
+    },
+    {
+        "location": "Warehouse 3",
+        "timestamp": "2024-11-30T03:25:01.987552Z",
+        "temperature": 28.6
+    },
+    {
+        "location": "Warehouse 3",
+        "timestamp": "2024-11-29T23:25:01.987552Z",
+        "temperature": 27.4
+    }
+]
