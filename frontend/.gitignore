@@ -24,7 +24,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# data
-data_insertion.log
-future_temperature_data.json
-temperature_data.json
