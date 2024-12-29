@@ -6,3 +6,4 @@ logs/
 data_insertion.log
 future_temperature_data.json
 temperature_data.json
+.DS_Store
